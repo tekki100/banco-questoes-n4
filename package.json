@@ -1,0 +1,11 @@
+{
+  "name": "parasitologia-n4-questoes",
+  "version": "2.0.0",
+  "description": "Banco de Questões de Parasitologia Médica N4 estilo Estratégia MED - 600 Questões Inéditas",
+  "scripts": {
+    "audit": "python3 audit_questions.py"
+  },
+  "devDependencies": {
+    "jsdom": "^31.0.0"
+  }
+}
